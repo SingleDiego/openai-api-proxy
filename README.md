@@ -59,7 +59,7 @@ Nginx 的配置文件位置在：``/etc/nginx/sites-available`` 文件夹内，�
 server {
 	listen 80 default_server;
 	listen [::]:80 default_server;
-    # 改成自己的域名
+    	# 改成自己的域名
 	server_name abcdefg.xyz; 
 
 	root /var/www/html;
