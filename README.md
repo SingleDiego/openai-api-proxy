@@ -99,4 +99,4 @@ nginx -s reload
 
 我们用第三方 Chrome 插件 [ChatHub](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma) 来运行 ChatGPT。填上我们自定的 API 地址就可正常使用了。
 
-![](https://upload-images.jianshu.io/upload_images/2070024-0dea9fe03457e757.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://github.com/SingleDiego/openai-api-proxy/blob/main/1.jpg)
