@@ -1,8 +1,5 @@
 # 使用 Nginx 反向代理创建自己的 openAI API
 
-<br>
-<hr>
-<br>
 
 
 ### 准备工作
