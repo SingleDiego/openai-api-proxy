@@ -2,7 +2,7 @@
 
 * 1. 拥有 openai api key (略）
 
-* 2.拥有一台可以连通 [https://api.openai.com](https://api.openai.com/) 的 VPS
+* 2. 拥有一台可以连通 [https://api.openai.com](https://api.openai.com/) 的 VPS
 
 远程登陆到 VPS 后，可使用 ``curl`` 工具来检查你的 VPS 是否跟 openai 的服务器联通。
 
