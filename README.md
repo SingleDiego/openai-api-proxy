@@ -21,7 +21,7 @@ curl https://api.openai.com/v1/chat/completions \
    }'
 ```
 
-更多参加：[API Reference - OpenAI API](https://platform.openai.com/docs/api-reference/making-requests)
+更多参见：[API Reference - OpenAI API](https://platform.openai.com/docs/api-reference/making-requests)
 
 * 3. 拥有一个域名，并解析到你的 VPS
 
